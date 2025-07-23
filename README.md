@@ -1,4 +1,5 @@
 # [🔗 Blog 링크](https://blog.naver.com/yujoy_)
+- 네이버 맛집 블로그 '유쪼이 아카이브'
 
 ---
 
